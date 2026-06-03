@@ -1,4 +1,4 @@
-## AI Health Reminder
+# AI Health Reminder
 
 ## Summary
 
